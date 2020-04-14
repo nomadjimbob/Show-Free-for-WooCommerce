@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Show Free for WooCommerce
-Plugin URI: https://jamescollins.com.au/resources/woocommerce-show-free
+Plugin URI: https://jamescollins.com.au/resources/show-free-for-woocommerce
 Description: Custom Extension for WooCommerce to show the word Free instead of a $0.00 for products
 Version: 1.0
 Author: James Collins
